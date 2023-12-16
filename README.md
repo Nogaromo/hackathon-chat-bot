@@ -1,1 +1,2 @@
-# hackathon-chat-bot
+# Инференс моделей
+Веса моделей доступны по ссылке - [<ссылка на Яндекс диск>](https://disk.yandex.ru/d/wtPW-uqGwaadDQ)
