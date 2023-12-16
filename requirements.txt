@@ -1,0 +1,4 @@
+torch==2.1.2
+catboost==1.2.2
+transformers==4.36.1
+sentencepiece==0.1.99
