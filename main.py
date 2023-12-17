@@ -27,6 +27,9 @@ def sliding_window(answer):
                     word = el
         if c > 1:
             break
+            
+    if word is None:
+        return answer
     idx = answer.find(word, answer.find(word) + 1)
     new_a = answer[:idx]
     if new_a[-1] == ' ':
